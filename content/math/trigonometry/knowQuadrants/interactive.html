@@ -1,0 +1,76 @@
+
+<img id="knob" src="/images/knob.png" width="200" height="200"/>
+<div id="knobInfo"></div>
+
+<script>
+var rotationSnap = 90;
+var knobEl = document.getElementById('knobInfo');
+Draggable.create("#knob", {
+    type:"rotation", //instead of "x,y" or "top,left", we can simply do "rotation" to make the object spinnable! 
+//Keep track of number of times around the circle
+   liveSnap:function(endValue) { 
+        //this function gets called when the mouse/finger is released and it plots where rotation should normally end and we can alter that value and return a new one instead. This gives us an easy way to apply custom snapping behavior with any logic we want. In this case, just make sure the end value snaps to 90-degree increments but only when the "snap" checkbox is selected.
+        angleNum = Math.round(endValue/15)*-1;
+
+        if (angleNum%12==1 || angleNum%12==5 || angleNum%12==7 || angleNum%12==11 || angleNum%12==-1 || angleNum%12==-5 || angleNum%12==-7 || angleNum%12==-11){
+        	if (endValue%30>15 || (endValue<0 && endValue%30>-15)){
+        		angleNum -=1;
+        	}
+        	else{
+        		angleNum +=1;
+        	}
+        }
+        if (angleNum%12==2 || angleNum%12==10 || angleNum%12==-2 || angleNum%12==-10){
+        	katex.render('\\frac{'+(angleNum/2).toString()+'\\pi}{6}',knobEl);
+        }
+        else if (angleNum%12==3 || angleNum%12==9 || angleNum%12==-3 || angleNum%12==-9){
+        	katex.render('\\frac{'+(angleNum/3).toString()+'\\pi}{4}',knobEl);
+        }
+        else if (angleNum%12==4 || angleNum%12==8 || angleNum%12==-4 || angleNum%12==-8){
+        	katex.render('\\frac{'+(angleNum/4).toString()+'\\pi}{3}',knobEl);
+        }
+        else if (angleNum%12==6 || angleNum%12==-6){
+        	katex.render('\\frac{'+(angleNum/6).toString()+'\\pi}{2}',knobEl);
+        }
+        else if (angleNum%12==0){
+        	katex.render((angleNum/12).toString()+'\\pi',knobEl);
+        }
+
+        
+        endValue = endValue-Math.floor(endValue/360)*360;
+        if (endValue%180<15){
+        	return 0+Math.floor(endValue/180)*180;
+        }
+        else if (endValue%180<37.5){
+        	return 30+Math.floor(endValue/180)*180;
+        }
+        else if (endValue%180<52.5){
+        	return 45+Math.floor(endValue/180)*180;
+        }
+        else if (endValue%180<75){
+        	return 60+Math.floor(endValue/180)*180;
+        }
+        else if (endValue%180<105){
+        	return 90+Math.floor(endValue/180)*180;
+        }
+        else if (endValue%180<127.5){
+        	return 120+Math.floor(endValue/180)*180;
+        }
+        else if (endValue%180<142.5){
+        	return 135+Math.floor(endValue/180)*180;
+        }
+        else if (endValue%180<165){
+        	return 150+Math.floor(endValue/180)*180;
+        }
+        else if (endValue%180<180){
+        	return 180+Math.floor(endValue/180)*180;
+        }
+        else {
+
+        	return Math.round(endValue / rotationSnap) * rotationSnap;
+    	}
+
+    }
+});
+</script>
+
