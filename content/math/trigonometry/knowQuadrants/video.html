@@ -27,7 +27,7 @@
         var vid = document.getElementById('myVideo');
         if (vid.currentTime > 0) {
 			if (vid.getAttribute("src") == "/videos/video1.mp4") {
-				greenRedRatio[0][0] = Math.max(vid.currentTime/(vid.duration-.5),greenRedRatio[0][0]);
+				greenRedRatio[0][0] = Math.max(vid.currentTime/(vid.duration*2-.5),greenRedRatio[0][0]);
 				greenRed();
 			}
 			else if (vid.getAttribute("src") == "/videos/video2.mp4") {

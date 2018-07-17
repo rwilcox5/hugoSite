@@ -280,11 +280,32 @@ function sortEnded(toId,fromId,oldIndex,newIndex) {
 			}
 		}
 	}
-	if (anglesCorrect && sineCorrect && cosineCorrect) {
-		alert("Great!");
+	if (anglesCorrect) {
+		greenRedRatio[0][1] = .5;
 	}
-	greenRedRatio[1][0] += .1;
+	else {
+		greenRedRatio[0][1] = 0;
+	}
+	if (sineCorrect) {
+		greenRedRatio[2][1] = .5;
+	}
+	else {
+		greenRedRatio[2][1] = 0;
+	}
+	if (cosineCorrect) {
+		greenRedRatio[3][1] = .5;
+	}
+	else {
+		greenRedRatio[3][1] = 0;
+	}
+	greenRedRatio[1][1] = 0;
+	if (firstThird[0] == 1 || firstThird[0] == 2 || firstThird[0] == 3) {
+		if (secondThird[0] == 1 || secondThird[0] == 2 || secondThird[0] == 3) {
+			greenRedRatio[1][1] = .5;
+		}
+	}
 	greenRed();
+	
 }
 
 </script>

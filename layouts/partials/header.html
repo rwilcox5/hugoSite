@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    <head>
+        {{ partial "head-open" . }}
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>{{ .Title }}</title>
+        {{ if .Site.Params.favicon }}
+        <link rel="icon" href="{{ .Site.Params.favicon | absURL }}">
+        {{ end }}
+        {{ partial "css" . }} {{ partial "js" . }} {{ .Hugo.Generator }}
+        {{ if .RSSLink }}
+        <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+        <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+        {{ end }}
+
+        {{ if .Site.GoogleAnalytics }}
+        <!-- Global Site Tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.GoogleAnalytics }}"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments)};
+          gtag('js', new Date());
+
+          gtag('config', '{{ .Site.GoogleAnalytics }}');
+        </script>
+        {{ end }}
+        <link rel="stylesheet" href="/css/awesomplete.css" />
+        <script src="/js/awesomplete.min.js" async></script>
+        <script type="text/javascript" src="/js/LZWEncoder.js"></script>
+		<script type="text/javascript" src="/js/NeuQuant.js"></script>
+		<script type="text/javascript" src="/js/GIFEncoder.js"></script>
+		<script type="text/javascript" src="/js/b64.js"></script>
+		<script src="/js/CSSPlugin.min.js"></script>
+		<script src="/js/Draggable.min.js"></script>
+		<script src="/js/TweenLite.min.js"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0-beta/dist/katex.min.css" integrity="sha384-9tPv11A+glH/on/wEu99NVwDPwkMQESOocs/ZGXPoIiLE8MU/qkqUcZ3zzL+6DuH" crossorigin="anonymous">
+		<script src="https://cdn.jsdelivr.net/npm/katex@0.10.0-beta/dist/katex.min.js" integrity="sha384-U8Vrjwb8fuHMt6ewaCy8uqeUXv4oitYACKdB0VziCerzt011iQ/0TqlSlv8MReCm" crossorigin="anonymous"></script>
+    </head>
+
+    <body>
+        {{ partial "body-open" . }}
+        <ul class="navbar">
+				
+					<li class="logo"><span class="helper"></span><a href="/index.html" style="vertical-align: middle; display: inline-block;"><img src="/images/logoText.png" height="30px" style="vertical-align: middle;"></a></li>
+					<li class="nav dropdown1">
+						<ul class="dropdown-content1">
+							<li><a href="/games/sudoku">Sudoku Farm</a></li>
+						</ul>
+						<a class="dropdown1">Games</a>
+					</li>
+					<li class="nav dropdown2">
+						<ul class="dropdown-content2">
+							<li><a href="/sports/pitchcharts/pitchcharts">Pitch Charts</a></li>
+						</ul>
+						<a class="dropdown2">Sports</a>
+					</li>
+					<li class="nav dropdown3">
+						<ul class="dropdown-content3">
+							<li><a href="/math/trigonometry/firstquadrant">Trigonometry</a></li>
+						</ul>
+						<a class="dropdown3">Math</a>
+					</li>
+				
+			</ul>

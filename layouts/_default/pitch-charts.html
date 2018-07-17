@@ -1,0 +1,25 @@
+{{ partial "header" . }}
+
+<main>
+
+	<div class="box" id="bigBox">
+		<div class="leftPitch">
+			<div class="pitches">
+				{{ partial "pitches" . }}
+			</div>
+
+		</div>
+		<div class="rightPitch">
+			<span class="atbat">
+				{{ readFile .Params.atbat | safeHTML }}
+			</span>
+			<span class="info">
+				{{ partial "pitchesInfo" . }}
+			</span>
+		</div>
+	</div>
+
+
+</main>
+
+{{ partial "footer.html" . }}
