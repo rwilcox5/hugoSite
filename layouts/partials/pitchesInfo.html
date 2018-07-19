@@ -112,14 +112,14 @@ function newSituation() {
 	if (outs != "012") { isSituation = true;}
 	if (innings != "0123456789") { isSituation = true;}
 	if (isSituation){
-		window.location.replace("/sports/pitchcharts/pitchcharts{{ .Params.mypid }}/?outs="+outs+"&runners="+runners+"&innings="+innings);
+		runQuery("outs="+outs+"&runners="+runners+"&innings="+innings);
 	}
 }
 function chggInput() {
-	 window.location.replace("/sports/pitchcharts/pitchcharts{{ .Params.mypid }}/?game="+document.getElementById('gamesInput').value);
+	runQuery("game="+document.getElementById('gamesInput').value);
 }
 function chgnInput() {
-	window.location.replace("/sports/pitchcharts/pitchcharts{{ .Params.mypid }}/?bid="+document.getElementById("namesInput").value);
+	runQuery("bid="+document.getElementById("namesInput").value);
 }
 
 var query = window.location.search.substring(1);
