@@ -1,5 +1,6 @@
 ---
-title: "ss"
+title: "Sudoku Farm Plot Details by TripleLog"
+description: "Learn how much of each resource every plot consumes and produces per turn."
 contents: "/content/games/contents.html"
 date: 2018-06-20
 tags: []

@@ -1,5 +1,7 @@
 ---
-title: "Trigonometry"
+katex: true
+title: "Trigonometric Values of All Angles by TripleLog"
+description: "Learn how to compute sine and cosine of any angle with video, interactive tools, and tips."
 contents: "/content/math/trigonometry/contents.html"
 date: 2018-06-20
 tags: []

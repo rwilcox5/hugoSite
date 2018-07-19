@@ -1,5 +1,8 @@
 ---
-title: "Trigonometry"
+katex: true
+sortable: true
+title: "Other Trig Functions: Tangent, Secant, Cot, and Csc"
+description: "Learn how to compute tangent, cotangent, secant, and cosecant with video, interactive tools, and tips."
 contents: "/content/math/trigonometry/contents.html"
 date: 2018-06-20
 tags: []

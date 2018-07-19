@@ -1,5 +1,6 @@
 ---
-title: "ss"
+title: "Sudoku Farm Plots by TripleLog"
+description: "Learn the nine types of plots that make up your Sudoku Farm."
 contents: "/content/games/contents.html"
 date: 2018-06-20
 tags: []

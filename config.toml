@@ -1,8 +1,7 @@
 baseURL = "https://www.triplelog.com/"
 languageCode = "en-us"
-title = "TripleLog"
+title = "TripleLog - Mobile Games, Sports, and Math."
 theme = ""
-disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
@@ -16,6 +15,7 @@ googleAnalytics = ""
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    favicon = "/images/logo.png"
 
 [[menu.main]]
     url = "/"

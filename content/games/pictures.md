@@ -1,5 +1,6 @@
 ---
-title: "ss"
+title: "Picture Sudoku by TripleLog"
+description: "Learn how to complete sudoku puzzles with pictures instead of numbers."
 contents: "/content/games/contents.html"
 date: 2018-06-20
 tags: []

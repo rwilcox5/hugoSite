@@ -1,5 +1,6 @@
 ---
-title: "ss"
+title: "How to Sudoku by TripleLog"
+description: "Learn the rules of sudoku and basic sudoku solving strategy with video, interactive puzzles, and tips."
 contents: "/content/games/contents.html"
 date: 2018-06-20
 tags: []

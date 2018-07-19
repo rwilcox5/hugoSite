@@ -1,5 +1,6 @@
 ---
-title: "ss"
+title: "Sudoku Farm Resources by TripleLog"
+description: "Learn the six resources that your Sudoku Farm needs to survive."
 contents: "/content/games/contents.html"
 date: 2018-06-20
 tags: []

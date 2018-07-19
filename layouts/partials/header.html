@@ -8,11 +8,12 @@
         {{ if .Site.Params.favicon }}
         <link rel="icon" href="{{ .Site.Params.favicon | absURL }}">
         {{ end }}
-        {{ partial "css" . }} {{ partial "js" . }} {{ .Hugo.Generator }}
-        {{ if .RSSLink }}
-        <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-        <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+        {{ if .Params.description }}
+        <meta name="description" content="{{ .Params.description }}"/>
+        {{ else }}
+        <meta name="description" content="Visit TripleLog to learn how to play Sudoku Farm, learn some trigonometry, or look at some baseball pitch charts."/>
         {{ end }}
+        {{ partial "css" . }} {{ partial "js" . }} {{ .Hugo.Generator }}
 
         {{ if .Site.GoogleAnalytics }}
         <!-- Global Site Tag (gtag.js) - Google Analytics -->
@@ -25,17 +26,28 @@
           gtag('config', '{{ .Site.GoogleAnalytics }}');
         </script>
         {{ end }}
+        {{ if .Params.awesomplete }}
         <link rel="stylesheet" href="https://triplelog.com/css/awesomplete.css" />
         <script src="https://triplelog.com/js/awesomplete.min.js" async></script>
+        {{ end }}
+        {{ if .Params.gifmaker }}
         <script type="text/javascript" src="https://triplelog.com/js/LZWEncoder.js"></script>
 		<script type="text/javascript" src="https://triplelog.com/js/NeuQuant.js"></script>
 		<script type="text/javascript" src="https://triplelog.com/js/GIFEncoder.js"></script>
 		<script type="text/javascript" src="https://triplelog.com/js/b64.js"></script>
+		{{ end }}
+		{{ if .Params.draggable }}
 		<script src="https://triplelog.com/js/CSSPlugin.min.js"></script>
 		<script src="https://triplelog.com/js/Draggable.min.js"></script>
 		<script src="https://triplelog.com/js/TweenLite.min.js"></script>
+		{{ end }}
+		{{ if .Params.katex }}
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0-beta/dist/katex.min.css" integrity="sha384-9tPv11A+glH/on/wEu99NVwDPwkMQESOocs/ZGXPoIiLE8MU/qkqUcZ3zzL+6DuH" crossorigin="anonymous">
 		<script src="https://cdn.jsdelivr.net/npm/katex@0.10.0-beta/dist/katex.min.js" integrity="sha384-U8Vrjwb8fuHMt6ewaCy8uqeUXv4oitYACKdB0VziCerzt011iQ/0TqlSlv8MReCm" crossorigin="anonymous"></script>
+    	{{ end }}
+    	{{ if .Params.sortable }}
+    	<script src="https://triplelog.com/js/sortable.min.js"></script>
+    	{{ end }}
     </head>
 
     <body>
