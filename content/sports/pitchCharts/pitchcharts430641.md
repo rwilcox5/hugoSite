@@ -1,5 +1,8 @@
 ---
-title: "Blaine Boyer"
+awesomplete: true
+gifmaker: true
+description: "View pitch charts for Blaine Boyer.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+title: "Blaine Boyer Pitch Charts from TripleLog"
 mypid: "430641"
 contents: "/content/math/trigonometry/contents.html"
 info: "/content/sports/pitchCharts/info.html"

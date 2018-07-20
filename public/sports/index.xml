@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sports on TripleLog - Mobile Games, Sports, and Math.</title>
+    <link>https://www.triplelog.com/sports/</link>
+    <description>Recent content in Sports on TripleLog - Mobile Games, Sports, and Math.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.triplelog.com/sports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pitch Charts by TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts/</guid>
+      <description>sdf </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.triplelog.com/sports/pitchcharts/atbat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/atbat/</guid>
+      <description>   var gif_canvas = document.getElementById(&#39;gif_canvas&#39;); function createGif(this_ab){ gif_context = gif_canvas.getContext(&#39;2d&#39;); var encoder = new GIFEncoder(); encoder.setRepeat(1); //auto-loop encoder.setDelay(800); gif_canvas.width = 222; gif_canvas.height = 222; encoder.setSize(222,222); encoder.start(); gif_context.fillStyle = &#34;rgb(255,255,255)&#34;; gif_context.fillRect(0,0,222,222); gif_context.strokeStyle = &#34;black&#34;; gif_context.beginPath(); gif_context.moveTo(51,51); gif_context.lineTo(171,51); gif_context.lineTo(171,171); gif_context.lineTo(51,171); gif_context.lineTo(51,51); gif_context.stroke(); gif_context.closePath(); for (ab_i=0;ab_i</description>
+    </item>
+    
+    <item>
+      <title>Aaron Bummer Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts607481/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts607481/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Colome Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts517008/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts517008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austin Pruitt Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts643493/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts643493/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bartolo Colon</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts112526/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts112526/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blaine Boyer Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts430641/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts430641/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blake Treinen Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts595014/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts595014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blake Wood Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts502028/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts502028/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brad Keller Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts641745/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts641745/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brandon Maurer Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts543506/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts543506/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Duensing Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts488846/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts488846/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Flynn Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts543169/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts543169/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burch Smith Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts572143/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts572143/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cam Bedrosian Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts592135/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts592135/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carson Smith Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts605476/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts605476/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Archer Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts502042/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts502042/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Hatcher Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts501822/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts501822/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris O&#39;Grady Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts622217/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts622217/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chris Sale Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts519242/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts519242/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danny Duffy Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts518633/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts518633/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drew Steckenrider Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts608716/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts608716/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Felix Hernandez Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts433587/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts433587/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fernando Rodney</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts407845/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts407845/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garrett Richards Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts572070/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts572070/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greg Infante Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts500872/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts500872/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Shields Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts448306/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts448306/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jim Johnson Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts462382/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts462382/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joe Kelly Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts523260/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts523260/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jon Lester Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts452657/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts452657/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jorge De La Rosa</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts407822/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts407822/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose Alvarez Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts501625/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts501625/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose Urena Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts570632/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts570632/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Minaya Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts573668/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts573668/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junichi Tazawa Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts547749/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts547749/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justin Grimm Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts518748/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts518748/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justin Wilson Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts458677/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts458677/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kelvin Herrera Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts516969/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts516969/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kendall Graveman Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts608665/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts608665/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynan Middleton Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts641871/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts641871/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luis Avilan Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts501593/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts501593/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matt Barnes Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts598264/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts598264/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Max Scherzer</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts453286/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts453286/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mike Montgomery Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts543557/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts543557/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noe Ramirez Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts598287/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts598287/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedro Strop Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts467008/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts467008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ryan Buchter Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts488748/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts488748/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steve Cishek Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts518553/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts518553/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tayron Guerrero Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts594027/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts594027/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Hill Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts657612/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts657612/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yusmeiro Petit Pitch Charts from TripleLog</title>
+      <link>https://www.triplelog.com/sports/pitchcharts/pitchcharts433589/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.triplelog.com/sports/pitchcharts/pitchcharts433589/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

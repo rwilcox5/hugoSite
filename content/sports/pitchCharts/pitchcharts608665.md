@@ -1,5 +1,8 @@
 ---
-title: "Kendall Graveman"
+awesomplete: true
+gifmaker: true
+description: "View pitch charts for Kendall Graveman.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+title: "Kendall Graveman Pitch Charts from TripleLog"
 mypid: "608665"
 contents: "/content/math/trigonometry/contents.html"
 info: "/content/sports/pitchCharts/info.html"

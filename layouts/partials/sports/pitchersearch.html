@@ -4,7 +4,7 @@ Pitcher: <input class="dropdown-input" id="pitcherInput" />
 	var pInput = document.getElementById("pitcherInput");
 
 	// Show label but insert value into the input:
-	var combopleteps1 = new Awesomplete(pInput, {
+	var comboplete1 = new Awesomplete(pInput, {
 		minChars: 0,
 		maxItems: 20,
 		autoFirst: true,
@@ -13,15 +13,15 @@ Pitcher: <input class="dropdown-input" id="pitcherInput" />
 	Awesomplete.$.bind(pInput, { "awesomplete-selectcomplete": chgInput });
 
 	Awesomplete.$('#pitcherBtn').addEventListener("click", function() {
-		if (combopleteps1.ul.childNodes.length === 0) {
-			combopleteps1.minChars = 0;
-			combopleteps1.evaluate();
+		if (comboplete1.ul.childNodes.length === 0) {
+			comboplete1.minChars = 0;
+			comboplete1.evaluate();
 		}
-		else if (combopleteps1.ul.hasAttribute('hidden')) {
-			combopleteps1.open();
+		else if (comboplete1.ul.hasAttribute('hidden')) {
+			comboplete1.open();
 		}
 		else {
-			combopleteps1.close();
+			comboplete1.close();
 		}
 	});
 
