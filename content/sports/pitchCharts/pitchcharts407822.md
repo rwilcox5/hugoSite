@@ -1,5 +1,8 @@
 ---
-title: "Jorge De La Rosa"
+awesomplete: true
+gifmaker: true
+description: "View pitch charts for Jorge De La Rosa. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+title: "Jorge De La Rosa Pitch Charts from TripleLog"
 mypid: "407822"
 contents: "/content/math/trigonometry/contents.html"
 info: "/content/sports/pitchCharts/info.html"

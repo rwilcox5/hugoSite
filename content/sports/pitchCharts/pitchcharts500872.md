@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Greg Infante.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Greg Infante. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Greg Infante Pitch Charts from TripleLog"
 mypid: "500872"
 contents: "/content/math/trigonometry/contents.html"

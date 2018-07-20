@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Tayron Guerrero.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Tayron Guerrero. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Tayron Guerrero Pitch Charts from TripleLog"
 mypid: "594027"
 contents: "/content/math/trigonometry/contents.html"

@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Steve Cishek.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Steve Cishek. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Steve Cishek Pitch Charts from TripleLog"
 mypid: "518553"
 contents: "/content/math/trigonometry/contents.html"

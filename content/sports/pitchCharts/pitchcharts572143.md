@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Burch Smith.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Burch Smith. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Burch Smith Pitch Charts from TripleLog"
 mypid: "572143"
 contents: "/content/math/trigonometry/contents.html"

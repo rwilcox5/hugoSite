@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Brad Keller.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Brad Keller. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Brad Keller Pitch Charts from TripleLog"
 mypid: "641745"
 contents: "/content/math/trigonometry/contents.html"

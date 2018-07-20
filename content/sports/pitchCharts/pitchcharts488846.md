@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Brian Duensing.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Brian Duensing. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Brian Duensing Pitch Charts from TripleLog"
 mypid: "488846"
 contents: "/content/math/trigonometry/contents.html"

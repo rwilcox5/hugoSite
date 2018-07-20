@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Aaron Bummer.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Aaron Bummer. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Aaron Bummer Pitch Charts from TripleLog"
 mypid: "607481"
 contents: "/content/math/trigonometry/contents.html"

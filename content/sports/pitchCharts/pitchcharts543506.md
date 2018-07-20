@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Brandon Maurer.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Brandon Maurer. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Brandon Maurer Pitch Charts from TripleLog"
 mypid: "543506"
 contents: "/content/math/trigonometry/contents.html"

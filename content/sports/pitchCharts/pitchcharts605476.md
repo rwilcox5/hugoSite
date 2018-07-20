@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Carson Smith.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Carson Smith. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Carson Smith Pitch Charts from TripleLog"
 mypid: "605476"
 contents: "/content/math/trigonometry/contents.html"

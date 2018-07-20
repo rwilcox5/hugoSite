@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Noe Ramirez.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Noe Ramirez. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Noe Ramirez Pitch Charts from TripleLog"
 mypid: "598287"
 contents: "/content/math/trigonometry/contents.html"

@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Juan Minaya.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Juan Minaya. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Juan Minaya Pitch Charts from TripleLog"
 mypid: "573668"
 contents: "/content/math/trigonometry/contents.html"

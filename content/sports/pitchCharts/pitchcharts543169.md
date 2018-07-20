@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Brian Flynn.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Brian Flynn. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Brian Flynn Pitch Charts from TripleLog"
 mypid: "543169"
 contents: "/content/math/trigonometry/contents.html"

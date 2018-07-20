@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Yusmeiro Petit.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Yusmeiro Petit. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Yusmeiro Petit Pitch Charts from TripleLog"
 mypid: "433589"
 contents: "/content/math/trigonometry/contents.html"

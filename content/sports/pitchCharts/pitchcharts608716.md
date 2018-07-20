@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Drew Steckenrider.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Drew Steckenrider. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Drew Steckenrider Pitch Charts from TripleLog"
 mypid: "608716"
 contents: "/content/math/trigonometry/contents.html"

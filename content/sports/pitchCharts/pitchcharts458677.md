@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Justin Wilson.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Justin Wilson. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Justin Wilson Pitch Charts from TripleLog"
 mypid: "458677"
 contents: "/content/math/trigonometry/contents.html"

@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Alex Colome.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Alex Colome. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Alex Colome Pitch Charts from TripleLog"
 mypid: "517008"
 contents: "/content/math/trigonometry/contents.html"

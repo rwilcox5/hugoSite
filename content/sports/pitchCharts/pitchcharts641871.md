@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Keynan Middleton.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Keynan Middleton. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Keynan Middleton Pitch Charts from TripleLog"
 mypid: "641871"
 contents: "/content/math/trigonometry/contents.html"

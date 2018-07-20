@@ -1,7 +1,7 @@
 ---
 awesomplete: true
 gifmaker: true
-description: "View pitch charts for Garrett Richards.See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
+description: "View pitch charts for Garrett Richards. See pitch sequences with pitch type and view gifs of each at-bat with location and movement"
 title: "Garrett Richards Pitch Charts from TripleLog"
 mypid: "572070"
 contents: "/content/math/trigonometry/contents.html"
